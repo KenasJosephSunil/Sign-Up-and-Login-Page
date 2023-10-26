@@ -1,0 +1,164 @@
+body {
+    background-color: #e3a540;
+    
+    
+}
+
+.parent {
+    width: 800px;
+    min-height: 465px;
+    background-color: #9e8c8b;
+    margin: auto;
+    margin-top: 200px;
+    margin-left: 120px;
+    border-style:inset;
+    border-color: black;
+    z-index: 10;
+}
+
+.sign {
+    text-align: center;
+    text-decoration: underline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+
+}
+
+.hr {
+    width: 550px;
+    height: 3px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 30px;
+    border: none;
+    background: linear-gradient(to left, yellow, red, green)
+}
+
+.name {
+    width: 250px;
+    height: 25px;
+    background-color: darkgray;
+    text-align: left;
+    margin-left: 65px;
+}
+
+.fullname {
+    margin-left: 35px;
+}
+
+.contact {
+    margin-left: 35px;
+}
+
+.mailid {
+    margin-left: 35px;
+}
+
+.birthdate {
+    margin-left: 35px;
+}
+
+
+
+.createpass {
+    margin-left: 35px;
+}
+
+.createrepass {
+    margin-left: 35px;
+}
+
+.mobile {
+    width: 250px;
+    height: 25px;
+    background-color: darkgray;
+    text-align: left;
+    margin-left: 61px;
+}
+
+.email {
+    width: 250px;
+    height: 25px;
+    background-color: darkgray;
+    text-align: left;
+    margin-left: 77px;
+}
+
+.dob {
+    width: 250px;
+    height: 25px;
+    background-color: darkgray;
+    text-align: left;
+    margin-left: 47px;
+
+}
+
+.gender {
+    margin-left: 55px;
+}
+
+.password {
+    width: 250px;
+    height: 25px;
+    background-color: darkgray;
+    text-align: left;
+    margin-left: 178px;
+    margin-top: -24px;
+    display: flex;
+}
+
+.a {
+    margin-left: 35px;
+    margin-top: 35px;
+}
+
+.b {
+    margin-left: 30px;
+}
+
+.repassword {
+    width: 250px;
+    height: 25px;
+    background-color: darkgray;
+    text-align: left;
+    margin-left: 178px;
+    margin-top: -24px;
+    display: flex;
+}
+
+.button {
+    width: 140px;
+    height: 36px;
+    background-color: #d8ac65;
+    border-style: outset;
+    border-width: 2px;
+    border-radius: 40px;
+    margin-left: 250px;
+    margin-top: -25px;
+    text-align: center;
+    cursor: pointer;
+
+}
+
+.userlink{
+    margin-left: 240px;
+}
+
+.image {
+    width: 220px;
+    float: right;
+    padding: 60px;
+    margin-top: -175px;
+}
+
+.image2{
+    width: 700px;
+    height: 700px;
+    position: relative;
+    left: 40%;
+    bottom: 600px;
+    z-index: -10;
+    border-radius: 3px;
+    border-style:inset;
+    border-color: rgba(255, 255, 0, 0.322);
+}
